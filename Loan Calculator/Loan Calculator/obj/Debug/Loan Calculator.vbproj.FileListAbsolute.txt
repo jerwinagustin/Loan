@@ -1,0 +1,24 @@
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe.config
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.pdb
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.xml
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.vbproj.AssemblyReference.cache
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\obj\Debug\Loan_Calculator.Form1.resources
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\obj\Debug\Loan_Calculator.Resources.resources
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.vbproj.GenerateResource.cache
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.exe
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.xml
+C:\Users\CL2 PC33\source\repos\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.pdb
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.vbproj.AssemblyReference.cache
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\obj\Debug\Loan_Calculator.Form1.resources
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\obj\Debug\Loan_Calculator.Resources.resources
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.vbproj.GenerateResource.cache
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe.config
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.exe
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.pdb
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\bin\Debug\Loan Calculator.xml
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.exe
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.xml
+C:\Users\CL2 PC33\Desktop\Agustin Jerwin M\Loan Calculator\Loan Calculator\obj\Debug\Loan Calculator.pdb
